@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1547160101 source:c:\users\sidnei\documents\projetos code blocks\calculadora 2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+	<math.h>
+
